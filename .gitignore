@@ -38,3 +38,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# Temporary folder
+# **/temp/  <-- Ignore at any location
+/temp  <-- Ignore at root folder
