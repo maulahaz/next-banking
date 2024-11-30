@@ -41,5 +41,7 @@ next-env.d.ts
 
 
 # Temporary folder
-# **/temp/  <-- Ignore at any location
-/temp/  <-- Ignore anyfile inside "temp" folder
+#-- Ignore at any location:
+# **/temp/
+#-- Ignore anyfile inside "temp" folder:
+/temp/
