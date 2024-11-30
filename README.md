@@ -1,6 +1,6 @@
-# Project : Build and Deploy a Banking App with Finance Management Dashboard Using Next.js 14
+# Project : Banking App Using NextJS 14
 ***************************************************************
-By. JavaScript Mastery
+Build and Deploy a Banking App with Finance Management Dashboard Using NextJS 14 By. JavaScript Mastery
 
 
 ## Notes:
